@@ -4,8 +4,9 @@ Esse é um dos projetos que sempre tive em mente e recentimente resolve tirar el
 Ler mangas é um hobby bem antigo e sempre me imaginei criando um software para isso, do 
 jeito que eu imagino que ele deve ser!
 
-
-![](gif/project_view.gif.gif)
+<p align="center">
+	<img width="400" height="300" src="gif/project_view.gif">
+</p>
 
 ## Getting Started
 
