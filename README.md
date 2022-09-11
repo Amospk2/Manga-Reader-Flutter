@@ -5,7 +5,7 @@ Ler mangas é um hobby bem antigo e sempre me imaginei criando um software para 
 jeito que eu imagino que ele deve ser!
 
 <p align="center">
-	<img width="400" height="300" src="gif/project_view.gif">
+	<img width="400" height="700" src="gif/project_view.gif">
 </p>
 
 ## Getting Started
