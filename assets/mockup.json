@@ -1,0 +1,43 @@
+[
+    {
+        "nome": "Hunter X Hunter",
+        "avaliacao": 15,
+        "genero": "Shounem",
+        "asset": "assets/images/cbb55a6382682bf71e91f685c6473c5a1487736090_full.jpg",
+        "description":"Hunters são uma raça especial, dedicada a rastrear tesouros, animais mágicos, e até mesmo outros homens. Mas tais atividades requerem uma licença, e menos de um em cem mil pode passar no exame de qualificação esgotante. Aqueles que não passam tem acesso a áreas restritas, lojas de incríveis informações, bem como o direito de chamar-se de Hunters.",
+        "downloadChapters":[],
+        "totalChapters":10
+            
+        
+    },
+    {
+        "nome": "Berserk",
+        "avaliacao": 15,
+        "genero": "Shounem",
+        "asset": "assets/images/Berserk_vol01.jpg",
+        "description":"Gatts é um sobrevivente que vaga pelo mundo à procura de respostas. Antigo membro do ext 'Bando dos Falcões', um grupo mercenário de cavaleiros e guerreiros liderado por Griffith e Caska, Gatts se adentra na história que ganha corpo e emerge sob um ponto de vista totalmente imprevisível, a medida que os acontecimentos vão se completando. É uma obra dedicada à eterna luta do Catolicismo contra Paganismo....",
+        "downloadChapters":[
+            {
+                "chapterPath":"",
+                "content":[
+                    "assets/images/img_or0707221553_0002.jpeg",
+                    "assets/images/img_or0707221553_0003.jpeg",
+                    "assets/images/img_or0707221553_0004.jpeg",
+                    "assets/images/img_or0707221553_0005.jpeg"
+                ],
+                "isDownloaded":false,
+                "chapterNumber":1
+            }
+        ],
+        "totalChapters":10
+    },
+    {
+        "nome": "Boku No Hero",
+        "avaliacao": 15,
+        "genero": "Shounem",
+        "asset": "assets/images/my-hero-academia_f9ae.jpg",
+        "description": "Um dia, um menino de quatro anos chegou a uma conclusão repentina: o mundo não é justo. Oitenta por cento da população mundial possui habilidades especiais, conhecidas como 'peculiaridades', que deram a muitos o poder de transformar em realidade seus sonhos de infância de se tornar um super-herói. Infelizmente, Izuku Midoriya foi uma das poucas nascidas sem um capricho, sofrendo de discriminação por causa disso. No entanto, ele se recusa a desistir de seu sonho de se tornar um herói; determinado a fazer o impossível, Izuku está de olho na academia de treinamento de heróis de elite, UA High. No entanto, tudo muda depois de um encontro casual com o herói número um e o ídolo de Izuku, All Might. Descobrindo que o seu sonho não é um beco sem saída, o rapaz sem poder passa por um treinamento especial, trabalhando mais do que nunca. Eventualmente, isso leva-o a herdar o poder de All Might, e com suas novas habilidades, entra em sua escola de escolha, começando sua jornada cansativa para se tornar o sucessor do melhor herói do planeta.",
+        "downloadChapters":[],
+        "totalChapters":10
+    }
+]
