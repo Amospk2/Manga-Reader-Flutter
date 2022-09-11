@@ -30,7 +30,7 @@ Comandos para rodar o projeto:
 
 - Atualizar os packages do projeto: flutter pub get
 - Debugar o projeto: flutter run lib/main.dart
-- Build do projeto: flutter run <target_plataform>
+- Build do projeto: flutter build <target_plataform>
 
 
 #Sugestões e criticas são bem-vindas!
