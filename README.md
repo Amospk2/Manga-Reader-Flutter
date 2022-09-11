@@ -1,16 +1,40 @@
-# readermanga
+# ReaderManga
 
-A new Flutter project.
+Esse é um dos projetos que sempre tive em mente e recentimente resolve tirar ele do papel. 
+Ler mangas é um hobby bem antigo e sempre me imaginei criando um software para isso, do 
+jeito que eu imagino que ele deve ser!
+
+
+![](gif/project_view.gif.gif)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+O projeto se resume a um leitor de mangas, com dados mockados inicialmente, que oferece ao 
+usuário a possibilidade de visualizar e ler capítulos dos seus mangas favoritos.
 
-A few resources to get you started if this is your first Flutter project:
+Alguns recursos que acabei utilizando nesse sistema:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter para desenvolvimento mobile;
+- Repository Pattern;
+- S.O.L.I.D;
+- photo_view(flutter packager).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Para utilizar esse projeto:
+
+Você pode notar que disponibilizei apenas alguns arquivos do projeto e esses são os que fazem o mesmo rodar. 
+Recomendo que crie um projeto flutter chamado 'readermanga' e apenas substitua o 'pubspec.yaml', a pasta 'lib' e adicione a pasta 'assets' a raiz do projeto.
+
+Comandos para rodar o projeto:
+
+- Atualizar os packages do projeto: flutter pub get
+- Debugar o projeto: flutter run lib/main.dart
+- Build do projeto: flutter run <target_plataform>
+
+
+#Sugestões e criticas são bem-vindas!
+
+
+
+
+
